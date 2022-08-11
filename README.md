@@ -1,2 +1,2 @@
 # Story2
-learning to pull and merge requests.
+I am learning to pull and merge requests through this repository.
